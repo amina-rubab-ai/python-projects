@@ -7,6 +7,8 @@ A collection of Python projects I build to practise and sharpen my programming s
 | Project | Description | Concepts |
 |---------|-------------|----------|
 | [Password Generator](password-generator) | Generates a random password based on the number of letters, symbols and digits the user chooses | Lists, loops, `random`, string handling |
+| [Hangman](hangman) | Word guessing game where the player has 6 lives to find a hidden word | Loops, lists, modules |
+| [Caesar Cipher](caesar-cipher) | Encrypts and decrypts messages using a Caesar shift | Functions, loops, strings, modulo |
 
 More projects are added regularly.
 
