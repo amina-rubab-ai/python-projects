@@ -11,6 +11,7 @@ A collection of Python projects I build to practise and sharpen my programming s
 | [Caesar Cipher](caesar-cipher) | Encrypts and decrypts messages using a Caesar shift | Functions, loops, strings, modulo |
 | [Secret Auction](secret-auction) | Blind auction program that finds the highest bidder | Dictionaries, loops, functions, input validation |
 | [Blackjack](blackjack) | Console Blackjack game against the computer | Functions, lists, loops, conditions |
+| [Number Guessing Game](number-guessing-game) | Guess a random number between 1 and 100 with limited attempts and difficulty levels | Functions, constants, scope, input validation |
 
 More projects are added regularly.
 
