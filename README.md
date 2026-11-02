@@ -10,6 +10,7 @@ A collection of Python projects I build to practise and sharpen my programming s
 | [Hangman](hangman) | Word guessing game where the player has 6 lives to find a hidden word | Loops, lists, modules |
 | [Caesar Cipher](caesar-cipher) | Encrypts and decrypts messages using a Caesar shift | Functions, loops, strings, modulo |
 | [Secret Auction](secret-auction) | Blind auction program that finds the highest bidder | Dictionaries, loops, functions, input validation |
+| [Blackjack](blackjack) | Console Blackjack game against the computer | Functions, lists, loops, conditions |
 
 More projects are added regularly.
 
